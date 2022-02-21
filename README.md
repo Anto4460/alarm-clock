@@ -1,4 +1,4 @@
-# alarm-clockecho 
+# alarm-clock
 	 
 #Importing all the necessary libraries to form the alarm clock:
 from tkinter import *
